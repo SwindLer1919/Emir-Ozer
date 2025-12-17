@@ -6,7 +6,7 @@ I'm a 2nd-year **Computer Engineering** student at **Manisa Celal Bayar Universi
 * **Languages:** Java (OOP), Python , HTML
 * **Networking:** Cisco CCNA (Introduction to Networks), Packet Tracer, Wireshark
 * **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, PyCharm, Terminal (Bash/Zsh)
-* **OS:** macOS, Linux, Windows
+* **OS:** macOS, Linux(Ubuntu), Windows
 
 #### 🏆 Certificates & Achievements
 * 📜 **Cisco Certified Network Associate (CCNA):** Introduction to Networks (Nov 2025)
