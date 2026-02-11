@@ -19,7 +19,7 @@ I'm a 2nd-year **Computer Engineering** student at **Manisa Celal Bayar Universi
 * 🇩🇪 German (A2 - Beginner)
 
 #### 🤝 Socials
-* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/emir-özer-5042642a5/)
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nazmi-emir-özer-5042642a5/)
 * 📫 Email: nazmiemirozer@gmail.com
 
 ---
