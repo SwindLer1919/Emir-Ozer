@@ -3,7 +3,7 @@
 I'm a 2nd-year **Computer Engineering** student at **Manisa Celal Bayar University** with a strong passion for software development and network engineering. I maintain a **3.41 GPA** while actively improving my technical skills.
 
 #### 🔧 Technical Stack
-* **Languages:** Java (OOP), Python , HTML
+* **Languages:** Java (OOP), Python
 * **Networking:** Cisco, Packet Tracer, Wireshark
 * **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, PyCharm, Terminal (Bash)
 * **OS:** macOS, Linux(Ubuntu), Windows
