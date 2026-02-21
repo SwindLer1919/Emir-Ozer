@@ -1,6 +1,6 @@
 ### Hi there, I'm Emir! 👋
 
-I'm a 2nd-year **Computer Engineering** student at **Manisa Celal Bayar University** with a strong passion for software development and network engineering. I maintain a **3.40 GPA** while actively improving my technical skills.
+I'm a 2nd-year **Computer Engineering** student at **Manisa Celal Bayar University** with a strong passion for software development and network engineering. I maintain a **3.41 GPA** while actively improving my technical skills.
 
 #### 🔧 Technical Stack
 * **Languages:** Java (OOP), Python , HTML
