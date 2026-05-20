@@ -9,6 +9,8 @@ I'm a 2nd-year **Computer Engineering** student at **Manisa Celal Bayar Universi
 * **OS:** macOS, Linux(Ubuntu), Windows
 
 #### 🏆 Certificates & Achievements
+* 📜 **Cisco Certified Network Associate (CCNA):** CCNA: Enterprise Networking, Security, and Automation (March 2026)
+* 📜 **BTK Academy:** Versiyon Kontrolleri: Git ve GitHub (Feb 2026)
 * 📜 **Cisco Certified Network Associate (CCNA):** CCNA: Switching, Routing, and Wireless Essentials (Jan 2026)
 * 📜 **Cisco Certified Network Associate (CCNA):** Introduction to Networks (Nov 2025)
 * 📜 **BTK Academy:** Introduction to Programming with Java (Dec 2024)
